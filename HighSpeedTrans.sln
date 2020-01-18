@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "msgTrans", "msgTrans\msgTrans.csproj", "{D6EA7675-F874-462C-97FB-16C86EE6EC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agentTrans", "agentTrans\agentTrans.csproj", "{F4931613-6CE4-4383-A0DD-350CB483B987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6EA7675-F874-462C-97FB-16C86EE6EC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EA7675-F874-462C-97FB-16C86EE6EC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EA7675-F874-462C-97FB-16C86EE6EC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EA7675-F874-462C-97FB-16C86EE6EC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4931613-6CE4-4383-A0DD-350CB483B987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4931613-6CE4-4383-A0DD-350CB483B987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4931613-6CE4-4383-A0DD-350CB483B987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4931613-6CE4-4383-A0DD-350CB483B987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
